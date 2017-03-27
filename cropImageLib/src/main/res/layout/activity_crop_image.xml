@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <example.crop.jian.cropimagelib.CropImageLayout
+        android:id="@+id/clipImageLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#00000000">
+
+        <ImageView
+            android:id="@+id/close_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingTop="17dp"
+            android:paddingBottom="17dp"
+            android:paddingLeft="@dimen/toolbar_back_icon_padding"
+            android:paddingRight="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/selector_button_close"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="修剪照片"
+            android:textColor="#FFF"
+            android:textSize="17dp"/>
+        <ImageView
+            android:id="@+id/okBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingTop="17dp"
+            android:paddingBottom="17dp"
+            android:paddingRight="@dimen/toolbar_back_icon_padding"
+            android:paddingLeft="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/selector_button_select"/>
+    </RelativeLayout>
+</RelativeLayout>

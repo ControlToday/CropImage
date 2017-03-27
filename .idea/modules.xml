@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CropImage.iml" filepath="$PROJECT_DIR$/CropImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropImageExample/CropImageExample.iml" filepath="$PROJECT_DIR$/CropImageExample/CropImageExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropImageExample.iml" filepath="$PROJECT_DIR$/CropImageExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropImageLib/cropImageLib.iml" filepath="$PROJECT_DIR$/cropImageLib/cropImageLib.iml" />
+    </modules>
+  </component>
+</project>

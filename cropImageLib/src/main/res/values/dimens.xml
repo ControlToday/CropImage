@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_back_icon_padding">15dp</dimen>
+    <dimen name="t5">13sp
+    </dimen> <!--单行above3dp, bottom3.5dp; 多行above3.5dp, bottom2.5dp, middle default3dp-->
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="12dp"
+    android:paddingTop="21dp"
+    android:textSize="@dimen/t5"
+    android:lineSpacingExtra="3dp"
+    android:textColor="#fff"
+    android:background="@color/crop_cover_color"
+    android:text="*可通过放大缩小调整人像位置\n*人像头部与人形头部区域尽量吻合\n*拍照距离保持为1米，效果最佳" />
