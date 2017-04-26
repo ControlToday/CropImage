@@ -1,1 +1,1 @@
-include ':CropImageExample', ':cropImageLib'
+include ':CropImageExample', ':CropImageLib'
