@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/CropImage.iml" filepath="$PROJECT_DIR$/CropImage.iml" />
       <module fileurl="file://$PROJECT_DIR$/CropImageExample/CropImageExample.iml" filepath="$PROJECT_DIR$/CropImageExample/CropImageExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/CropImageExample.iml" filepath="$PROJECT_DIR$/CropImageExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CropImageLib/cropImageLib.iml" filepath="$PROJECT_DIR$/CropImageLib/cropImageLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropImageLib/CropImageLib.iml" filepath="$PROJECT_DIR$/CropImageLib/CropImageLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
