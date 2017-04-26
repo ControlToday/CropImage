@@ -1,4 +1,4 @@
-package com.unit.cropimage;
+package com.crop.activity;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

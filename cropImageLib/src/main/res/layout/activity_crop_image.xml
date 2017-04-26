@@ -5,7 +5,7 @@
     android:background="#000000"
     android:orientation="vertical" >
 
-    <example.crop.jian.cropimagelib.CropImageLayout
+    <com.crop.CropImageLayout
         android:id="@+id/clipImageLayout"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />

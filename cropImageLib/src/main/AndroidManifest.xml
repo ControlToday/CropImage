@@ -1,13 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-    package="example.crop.jian.cropimagelib">
+    package="com.crop">
 
     <application android:allowBackup="true" android:label="@string/app_name"
         android:supportsRtl="true">
         <activity android:name=".CropImageActivity"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
-            android:process=":cropImage" />
+            android:process=":CropImage" />
     </application>
 
 </manifest>
